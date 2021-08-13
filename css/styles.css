@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+
+/* This is a single-line comment
+background-color:#E8F6F6   and  #E8F6EF are the same as the first one #EAF6F6 ;
+background-color:#CDF0EA
+ */
+}
+hr {
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  border-color: LIGHTgrey;
+  border-width: 5px;
+  width:5%;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+   color: #66BFBF;
+}
