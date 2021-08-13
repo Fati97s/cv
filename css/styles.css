@@ -19,10 +19,11 @@ h1 {
 h3 {
    color: #66BFBF;
 }
-a:hover{
-  color: #40514E;
-}
 a{
   color:#66BFBF;
   text-decoration: none;
 }
+a:hover{
+  color: #40514E;
+}
+
